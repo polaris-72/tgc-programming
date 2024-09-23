@@ -1,0 +1,5 @@
+#ignore files and subfolders in bin folder
+**/bin/
+
+#ignore files and subfolders in settings folder
+**/.settings/**
